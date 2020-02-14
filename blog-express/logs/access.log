@@ -1,0 +1,2 @@
+::1 - - [13/Feb/2020:10:44:55 +0000] "GET /api/blog/detail?id=1 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+::1 - - [13/Feb/2020:10:45:00 +0000] "GET /api/blog/list HTTP/1.1" 200 299 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
